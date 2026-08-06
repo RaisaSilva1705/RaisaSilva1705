@@ -7,7 +7,7 @@
 
 ### 👩‍💻 Sobre Mim
 - 🎓 Formada em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal de São Paulo (IFSP).
-- 💻 Experiência no desenvolvimento de aplicações web completas, desde a estruturação do banco de dados até a interface do usuário.
+- 💻 Experiência no desenvolvimento de aplicações web completas, atuando tanto na interface do usuário quanto na estruturação estruturação de banco de dados e lógica de servidor.
 - 🔬 Atuei em Iniciação Científica desenvolvendo plataformas educacionais (foco em criação de slides para professores).
 - 🚀 Desenvolvi um Sistema de Gestão Farmacêutica Web completo como projeto de conclusão de curso (TCC).
 
@@ -15,12 +15,19 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Front-end:**  
+**Front-end (Linguagens):**  
 <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="Bootstrap 5" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</div>
+
+<br>
+
+**Frameworks & Bibliotecas:**  
+<div style="display: inline_block">
+  <img align="center" alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img align="center" alt="Bootstrap 5" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
 <br>
@@ -35,7 +42,7 @@
 
 <br>
 
-**Ferramentas & Cloud:**  
+**Ferramentas, Versionamento & Cloud:**  
 <div style="display: inline_block">
   <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
